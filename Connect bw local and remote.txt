@@ -1,0 +1,16 @@
+establish relationship
+https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
+
+## command prompt "cd" doesn't work? add /d after cd, eg
+cd /d d:\Docs\Java
+
+## Problems with push
+
+create a new repo in guthub
+go to local folder and do "git init"
+git remote add origin (with your repo url) // simply copy from your repo
+git add -A
+git commit -m "your commit"
+git push -u origin master
+
+https://stackoverflow.com/questions/10753268/github-error-failed-to-push-some-refs-to-gitgithub-commyrepo-git/55471634#55471634?newreg=1193e352ca514ca8895aa42069f7755d
